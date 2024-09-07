@@ -35,7 +35,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing about me, projects, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind CSS", "Motion Framer"],
-    link: "https://samirahmahroof.com",
+    link: "https://react-portfolio-5z34mqxnf-samirahs-projects-2f35b847.vercel.app/",
   },
   {
     title: "Marvel Characters",
