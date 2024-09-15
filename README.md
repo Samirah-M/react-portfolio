@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My Portfolio 👋</h1>
 
-> Welcome to my portfolio website! This project showcases my skills and work using modern web technologies. Below you'll find details about the technologies used, how to set up the project locally, and how to deploy it.
+> Welcome to my portfolio website! This project showcases my skills and work using modern web technologies. Below you'll find details about the technologies used, and how to deploy it.
 
 ## Technologies used:
 - React: A JavaScript library for building user interfaces.
