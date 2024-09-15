@@ -34,7 +34,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing about me, projects, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Tailwind CSS"],
+    technologies: ["React", "Tailwind CSS", "Framer Motion"],
     link: "https://main--samirah-m.netlify.app/",
   },
   {
