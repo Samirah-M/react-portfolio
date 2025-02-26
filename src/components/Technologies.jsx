@@ -3,7 +3,10 @@ import { RiBootstrapLine } from "react-icons/ri";
 import { RiHtml5Line } from "react-icons/ri";
 import { RiCss3Line } from "react-icons/ri";
 import { RiJavascriptLine } from "react-icons/ri";
+import { SiMysql } from "react-icons/si";
 import { RiNodejsLine } from "react-icons/ri";
+import { SiPython } from "react-icons/si";
+import { SiDjango } from "react-icons/si";
 import { motion } from "framer-motion";
 
 const iconVariants = (duration) => ({
@@ -82,7 +85,31 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
+          <SiMysql className="text-7xl text-blue-500" />
+        </motion.div>
+        <motion.div
+          variants={iconVariants(4.5)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
           <RiNodejsLine className="text-7xl text-green-600" />
+        </motion.div>
+        <motion.div
+          variants={iconVariants(3.5)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <SiPython className="text-7xl text-blue-600" />
+        </motion.div>
+        <motion.div
+          variants={iconVariants(5.5)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <SiDjango className="text-7xl text-green-400" />
         </motion.div>
       </motion.div>
     </div>
