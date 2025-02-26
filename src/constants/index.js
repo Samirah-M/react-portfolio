@@ -1,8 +1,9 @@
-import project1 from "../assets/projects/arabianSunsets.png";
-import project2 from "../assets/projects/awrah.jpg";
-import project3 from "../assets/samirahMahroof.png";
-import project4 from "../assets/projects/marvel.png";
-import project5 from "../assets/projects/books&m.png";
+import project1 from  "../assets/projects/readme-gen.png"
+import project2 from "../assets/projects/arabianSunsets.png";
+import project3 from "../assets/projects/awrah.jpg";
+import project4 from "../assets/samirahMahroof.png";
+import project5 from "../assets/projects/marvel.png";
+import project6 from "../assets/projects/books&m.png";
 
 export const HERO_CONTENT = `I am a dedicated full-stack developer with a strong foundation in HTML, CSS, and JavaScript, along with expertise in frameworks and libraries like Bootstrap, React, Node.js, and Express. On the back end, I have experience working with SQL databases and Django, allowing me to build robust, scalable applications.
 I thrive on learning new technologies and best practices to stay at the forefront of web development. My goal is to leverage my skills to create intuitive, responsive, and user-focused web applications that solve real-world problems. Whether it’s designing sleek front-end interfaces, optimizing back-end functionality, or improving database efficiency, I am driven to deliver impactful solutions that elevate the user experience.`;
@@ -15,8 +16,16 @@ I believe in the power of continuous learning, and I’m always expanding my kno
 
 export const PROJECTS = [
   {
-    title: "Arabian Sunsets E-Commerce Website",
+    title: "Readme Generator",
     image: project1,
+    description:
+      "The README Generator is a Python script that creates a well-structured README.md file based on user input. It utilises interactive command-line prompts and styled terminal output for an enhanced experience.",
+    technologies: ["Python", "Markdown", "InquirerPy", "Rich"],
+    link: "https://github.com/Samirah-M/read-me-generator.git",
+  },
+  {
+    title: "Arabian Sunsets E-Commerce Website",
+    image: project2,
     description:
       "Shopify e-commerce website that offers a seamless shopping experience with a wide range of products, detailed descriptions, secure payment options, and easy navigation.",
     technologies: ["HTML", "CSS", "Liquid"],
@@ -24,7 +33,7 @@ export const PROJECTS = [
   },
   {
     title: "Awrah LTD E-Commerce Website",
-    image: project2,
+    image: project3,
     description:
       "E-Commerce website built on Shopify, offers a sleek and user-friendly shopping experience with a variety of products, detailed descriptions, secure payment options, and seamless navigation.",
     technologies: ["HTML", "CSS", "Liquid"],
@@ -32,7 +41,7 @@ export const PROJECTS = [
   },
   {
     title: "Portfolio Website",
-    image: project3,
+    image: project4,
     description:
       "A personal portfolio website showcasing about me, projects, and contact information.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
@@ -40,7 +49,7 @@ export const PROJECTS = [
   },
   {
     title: "Marvel Characters",
-    image: project4,
+    image: project5,
     description:
       "Marvel Character Search is a web application that allows users to explore and search for Marvel characters. This project provides an interactive and visually appealing interface for discovering information about your favorite Marvel heroes and villains.",
     technologies: ["HTML", "CSS", "JavaScript", "API"],
@@ -48,7 +57,7 @@ export const PROJECTS = [
   },
   {
     title: "Books & Movies Library",
-    image: project5,
+    image: project6,
     description:
       "A user-friendly application that provides a list of movies and books, along with their respective details such as title, release date, etc.",
     technologies: ["HTML", "CSS", "JavaScript", "API"],
