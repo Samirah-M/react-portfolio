@@ -36,5 +36,3 @@ const About = () => {
 };
 
 export default About;
-
-// add an about me text
