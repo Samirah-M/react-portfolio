@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My Portfolio 👋</h1>
 
-> Welcome to my portfolio website! This project showcases my skills and work using modern web technologies. Below you'll find details about the technologies used, and how to deploy it.
+> Welcome to my portfolio website! This project showcases my skills and work using modern web technologies.
 
 ## Technologies used:
 - React: A JavaScript library for building user interfaces.
@@ -14,12 +14,11 @@
 - Modern UI: Styled with Tailwind CSS for a clean and modern look.
 
 ## Project Overview:
-This portfolio website demonstrates my ability to create interactive and visually appealing web pages using the latest front-end technologies. It includes sections for my work, skills, and contact information.
+This project is a personal portfolio website built using React and Vite. It showcases my skills, projects, and experiences as a web developer, providing an interactive and visually appealing user experience. 
 
 ## Screenshot
 
-<img width="1899" alt="Screenshot 2024-09-15 at 15 29 17" src="https://github.com/user-attachments/assets/1512dcfd-8e1c-44e3-9a19-9eeaa11f7402">
-
+<img width="1710" alt="Screenshot 2025-04-02 at 9 11 06 pm" src="https://github.com/user-attachments/assets/1af57192-df56-4f24-b629-cf58650f609a" />
 
 ## Live link:
 ```
