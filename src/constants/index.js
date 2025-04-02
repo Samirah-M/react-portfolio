@@ -5,14 +5,13 @@ import project4 from "../assets/samirahMahroof.png";
 import project5 from "../assets/projects/marvel.png";
 import project6 from "../assets/projects/books&m.png";
 
-export const HERO_CONTENT = `I am a dedicated full-stack developer with a strong foundation in HTML, CSS, and JavaScript, along with expertise in frameworks and libraries like Bootstrap, React, Node.js, and Express. On the back end, I have experience working with SQL databases and Django, allowing me to build robust, scalable applications.
-I thrive on learning new technologies and best practices to stay at the forefront of web development. My goal is to leverage my skills to create intuitive, responsive, and user-focused web applications that solve real-world problems. Whether it’s designing sleek front-end interfaces, optimising back-end functionality, or improving database efficiency, I am driven to deliver impactful solutions that elevate the user experience.`;
+export const HERO_CONTENT = `I’m a junior full-stack developer with a strong foundation in HTML, CSS, and JavaScript, along with experience in frameworks and libraries like Bootstrap, React, Node.js, and Express. On the back end, I have experience working with SQL databases to build scalable and efficient applications. I’m passionate about continuous learning and staying up to date with the latest technologies to refine my skills and build better solutions. From crafting sleek, responsive interfaces to optimising back-end performance and database efficiency, I thrive on creating intuitive, user-focused applications that solve real-world problems.`;
 
-export const ABOUT_TEXT = `From a young age, I’ve been captivated by the world of technology, always eager to explore and understand how things work. This curiosity naturally led me to discover my passion for full-stack development, where I found the perfect blend of creativity and technical problem-solving.
+export const ABOUT_TEXT = `Technology has always fascinated me - not just how it works, but how it can be used to create something meaningful. That curiosity led me to full-stack development, where I found the perfect balance between creativity and problem-solving. I enjoy the process of building things from the ground up and bringing ideas to life through code.
 
-I have hands-on experience with a range of web technologies, including HTML, CSS, JavaScript, React, Node.js, Express, SQL, and Django. I’ve built several projects that showcase my ability to develop both intuitive front-end interfaces and efficient back-end systems, ensuring seamless user experiences.
+Along the way, I’ve gained experience with HTML, CSS, JavaScript, React, Node.js, Express, and SQL. In my projects, I focus on more than just functionality, I aim to create smooth, user-friendly experiences, whether that means designing a clean front-end or making the back-end more efficient.
 
-I believe in the power of continuous learning, and I’m always expanding my knowledge to stay on top of the latest trends and tools in full-stack development. My goal is to keep growing as a developer and contribute to this ever-evolving field by creating innovative solutions and impactful digital experiences.`;
+For me, learning never stops. I’m always exploring new tools and techniques to refine my skills and stay ahead in this ever-evolving field. My goal is simple: to keep growing as a developer and build solutions that make a real impact.`;
 
 export const PROJECTS = [
   {
