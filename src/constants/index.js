@@ -1,9 +1,8 @@
 import project1 from  "../assets/projects/readme-gen.png"
 import project2 from "../assets/projects/arabianSunsets.png";
-import project3 from "../assets/projects/awrah.jpg";
-import project4 from "../assets/samirahMahroof.png";
-import project5 from "../assets/projects/marvel.png";
-import project6 from "../assets/projects/books&m.png";
+import project3 from "../assets/samirahMahroof.png";
+import project4 from "../assets/projects/marvel.png";
+import project5 from "../assets/projects/books&m.png";
 
 export const HERO_CONTENT = `I’m a junior full-stack developer with a strong foundation in HTML, CSS, and JavaScript, along with experience in frameworks and libraries like Bootstrap, React, Node.js, and Express. On the back end, I have experience working with SQL databases to build scalable and efficient applications. I’m passionate about continuous learning and staying up to date with the latest technologies to refine my skills and build better solutions. From crafting sleek, responsive interfaces to optimising back-end performance and database efficiency, I thrive on creating intuitive, user-focused applications that solve real-world problems.`;
 
@@ -31,16 +30,8 @@ export const PROJECTS = [
     link: "https://arabiansunsets.com",
   },
   {
-    title: "Awrah LTD E-Commerce Website",
-    image: project3,
-    description:
-      "E-Commerce website built on Shopify, offers a sleek and user-friendly shopping experience with a variety of products, detailed descriptions, secure payment options, and seamless navigation.",
-    technologies: ["HTML", "CSS", "Liquid"],
-    link: "https://awrah.net",
-  },
-  {
     title: "Portfolio Website",
-    image: project4,
+    image: project3,
     description:
       "A personal portfolio website showcasing about me, projects, and contact information.",
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
@@ -48,7 +39,7 @@ export const PROJECTS = [
   },
   {
     title: "Marvel Characters",
-    image: project5,
+    image: project4,
     description:
       "Marvel Character Search is a web application that allows users to explore and search for Marvel characters. This project provides an interactive and visually appealing interface for discovering information about your favorite Marvel heroes and villains.",
     technologies: ["HTML", "CSS", "JavaScript", "API"],
@@ -56,15 +47,11 @@ export const PROJECTS = [
   },
   {
     title: "Books & Movies Library",
-    image: project6,
+    image: project5,
     description:
       "A user-friendly application that provides a list of movies and books, along with their respective details such as title, release date, etc.",
     technologies: ["HTML", "CSS", "JavaScript", "API"],
     link: "https://venkatamora.github.io/Book-and-Movies-library/index.html"
   },
 ];
-
-export const CONTACT = {
-  email: "samirahm21@gmail.com",
-};
 
