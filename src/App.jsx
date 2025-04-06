@@ -1,5 +1,5 @@
 import About from "./components/About";
-import Contact from "./components/Contact";
+import ContactForm from "./components/ContactForm";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
@@ -18,7 +18,7 @@ const App = () => {
         <About />
         <Technologies />
         <Projects />
-        <Contact />
+        <ContactForm />
       </div>
     </div>
   );
