@@ -61,6 +61,12 @@ export default function ContactForm() {
               Get
               <span className="text-neutral-500"> in touch</span>
             </h2>
+            <motion.div
+              whileInView={{ opacity: 1, x: 0 }}
+              initial={{ opacity: 0, x: -100 }}
+              transition={{ duration: 0.5 }}
+              className="w-full lg:w-1/2 lg:p-8"
+            ></motion.div>
             <form
               onSubmit={handleSubmit}
               className="space-y-6 bg-gray-50 shadow-lg rounded-2xl p-6"
